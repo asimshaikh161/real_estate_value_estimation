@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/real_estate_value_estimation/static/css/main.a9dbc723.css",
+    "main.js": "/real_estate_value_estimation/static/js/main.944879f5.js",
+    "static/js/453.3f290f6a.chunk.js": "/real_estate_value_estimation/static/js/453.3f290f6a.chunk.js",
+    "index.html": "/real_estate_value_estimation/index.html",
+    "main.a9dbc723.css.map": "/real_estate_value_estimation/static/css/main.a9dbc723.css.map",
+    "main.944879f5.js.map": "/real_estate_value_estimation/static/js/main.944879f5.js.map",
+    "453.3f290f6a.chunk.js.map": "/real_estate_value_estimation/static/js/453.3f290f6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9dbc723.css",
+    "static/js/main.944879f5.js"
+  ]
+}
