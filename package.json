@@ -2,7 +2,7 @@
   "name": "real_estate_value_estimator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://asimshaikh161.github.io/real_estate_value_estimator",
+  "homepage": "https://asimshaikh161.github.io/real_estate_value_estimation",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
