@@ -1,0 +1,51 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #343a40;
+  margin: 0;
+  padding: 40px;
+}
+
+.container {
+  max-width: 15000px;
+  background: #b9edd8;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  text-align: center;
+  color: #227350;
+  font-size: 28px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+form input, form select {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #4a7cae00;
+}
+
+button {
+  width: 20%;
+  background-color: #28a745;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+.error-message {
+  color: #dc3545;
+  font-size: 14px;
+  margin-top: 5px;
+}
